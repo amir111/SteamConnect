@@ -5,7 +5,7 @@
 **CSC 495-01 Data Science Fall 2017**
 
 ## Goal
-The overall goal of SteamConnect will be to examien and analyze Steam data gathered through various data sets and compare them to determine what genres or categories of games are more successful than others and why. This analysis will be done with mainly three major sources within Steam: early access game data, Steam's review system and the Steam Web API. Using these three, we will be able to answer questions regarding the success or failure of early access and standard release games and hopefully pinpoint the reasons behind either.
+The overall goal of SteamConnect will be to examine and analyze Steam data gathered through various data sets and compare them to determine what genres or categories of games are more successful than others and why. This analysis will be done with mainly three major sources within Steam: early access game data, Steam's review system and the Steam Web API. Using these three, we will be able to answer questions regarding the success or failure of early access and standard release games and hopefully pinpoint the reasons behind either.
 
 **Null Hypothesis:** There is no difference between the scores of early access games and games that have been fully released.
 
